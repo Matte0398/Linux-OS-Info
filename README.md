@@ -1,4 +1,4 @@
-# Get-Linux-OS
+# Linux OS Info
 
 Bash utility that collects and displays useful information about a Linux system.
 
